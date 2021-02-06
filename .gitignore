@@ -133,3 +133,5 @@ dmypy.json
 *extracted/
 
 *.idea/
+
+*.csv
